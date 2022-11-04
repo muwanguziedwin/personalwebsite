@@ -1,0 +1,27 @@
+.rinoh{
+    position: relative;
+    width: 100px;
+    height: 100vh;
+}
+#header{
+    background-color: bisque;
+    padding: 15px;
+}
+.nav-menu > ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}.nav-menu > ul{
+    display: flex;
+}
+.nav-menu > ul >li {
+    position: relative;
+    white-space: nowrap;
+    padding: 10px 0 10px 22px;
+}
+body{
+    background-color: antiquewhite;
+}
+li{
+    list-style: none;
+}
